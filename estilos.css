@@ -9,7 +9,7 @@
   justify-content: space-between; 
   align-items: center; 
   padding: 15px 25px; 
-  background-color: #3175ad;
+  background-color: #183c5a;
 }
 
 .cartao {
@@ -25,7 +25,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #87ddf7;
+    background-color: #2b505c;
 }
 
 main {
@@ -46,7 +46,7 @@ h1 {
 }
 
 footer {
-    color: #3175ad;
+    color: #183c5a;
     padding: 15px 25px; 
     color: #fff;
 }
